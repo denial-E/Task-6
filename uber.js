@@ -1,5 +1,5 @@
 class UberPriceCalculator {
-    constructor(baseFare,costPerKilometer,costPerMinute,bookingFee,) {
+    constructor(baseFare,costPerKilometer,costPerMinute,bookingFee) {
       this.baseFare = 60;
       this.costPerKilometer = 15;
       this.costPerMinute = 2.5;
